@@ -1,0 +1,88 @@
+Perfect, John! Here's a **personalized and relatable version** of your **Pricing** and **FAQs**, written in a clean, confident, and client-attracting tone. Everything is in **₦aira**, with only the most **relevant web service categories** you’re likely to offer.
+
+---
+
+## 💰 **Pricing**
+
+> *I design and build modern, responsive websites tailored to your needs and business goals. Below are popular packages you can choose from or customize.*
+
+| **Service**                        | **Starting Price (₦)** |
+| ---------------------------------- | ---------------------- |
+| **Portfolio Website**              | ₦35,000                |
+| **Business/Company Website**       | ₦50,000                |
+| **E-commerce Website**             | ₦90,000                |
+| **School Website (with portal)**   | ₦120,000               |
+| **Blog/News Website**              | ₦45,000                |
+| **Church or NGO Website**          | ₦40,000                |
+| **Event or Wedding Website**       | ₦30,000                |
+| **Website Maintenance (Monthly)**  | ₦15,000                |
+| **SEO Optimization**               | ₦20,000                |
+| **Bug Fixes & Edits (on request)** | From ₦5,000            |
+
+> ✅ *Every package comes with a responsive design (mobile-ready), modern layout, clean user experience, and free setup support.*
+> 📦 *Custom quote available for special requests or long-term work.*
+
+---
+
+## ❓ **Frequently Asked Questions**
+
+### 1. **How do I get started with you?**
+
+> Simply reach out through my contact form or WhatsApp. We’ll briefly discuss your project, your goals, and then I’ll provide a tailored quote and timeline. Once we agree, I begin work immediately after part payment.
+
+---
+
+### 2. **How long does it take to build a website?**
+
+> It depends on the type:
+>
+> * Portfolio or Event site: **2–4 days**
+> * Business or Blog site: **5–7 days**
+> * E-commerce or School portal: **1–2 weeks**
+>
+> I prioritize speed *without* compromising quality. Urgent delivery options are also available.
+
+---
+
+### 3. **What do I need to provide before we start?**
+
+> At minimum:
+>
+> * Your logo (if you have one)
+> * Basic information about your business/brand
+> * Content (text, product info, images, etc.)
+> * Your preferred domain name or existing one
+>   I’ll guide you through all these steps if you're unsure.
+
+---
+
+### 4. **Do I need to know tech to manage my website after delivery?**
+
+> No, not at all. I build user-friendly websites and, if needed, I’ll guide you on how to manage it or handle the management for you. You can choose to request monthly updates or edits anytime.
+
+---
+
+### 5. **Can you help me buy a domain and host my website?**
+
+> Yes! I help clients get:
+>
+> * **.com, .ng, or .org domains**
+> * **Fast, secure hosting**
+> * Free SSL and business email (if your host provides it)
+>   I also handle deployment and setup from scratch.
+
+---
+
+### 6. **What if I want to make changes after delivery?**
+
+> You get **free support for up to 14 days** after delivery for minor changes. After that, you can subscribe to a maintenance plan or pay per request.
+
+---
+
+### 7. **Is payment flexible?**
+
+> Yes! I accept **part payment upfront**, and the balance is paid once your project is complete and you're satisfied. You can pay via transfer or other secure methods.
+
+---
+
+Would you like me to turn this into a styled **HTML + CSS code block** next? Or include WhatsApp call-to-action buttons, collapsible FAQs, or animations?
